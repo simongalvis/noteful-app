@@ -1,0 +1,62 @@
+main{
+    text-align: center;
+    margin-top: 0;
+    margin:0;
+}
+header{
+    padding-top: 7%;
+    padding-bottom: 7%;
+    border-bottom: 1px gray solid;
+    width:100%;
+    background-color: lightgray;
+}
+ul{
+    padding-inline-start: 0;
+    padding: 0 5%;
+}
+li{
+    border: 1px solid black;
+    list-style-type: none;
+    margin: 5%;
+    padding-right: 3%;
+    padding-left: 3%;
+}
+a{
+    text-decoration: none;
+    
+    
+}
+.mainSection{
+    display: flex;
+    
+}
+.sideBarSection{
+    flex:1;
+    background-color: lightcyan;
+    
+    
+}
+.contentSection{
+    flex:2;
+    background-color: lightblue;
+}
+.addFolderButton{
+    width:81%;
+    height: 70px;
+    margin: 5%;
+    padding-right: 3%;
+    padding-left: 3%;
+    background-color: transparent;
+    border: 1px solid black;
+}
+
+h1{
+    margin: 0;
+}
+#App{
+    margin: 0;
+}
+.leftAlign{
+    text-align: left;
+}
+
